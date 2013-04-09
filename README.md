@@ -2,7 +2,7 @@
 
 1. [Download your data from Facebook](https://www.facebook.com/help/212802592074644/)
 2. [Install Node.js](http://nodejs.org/)
-3. `git clone`
+3. `git clone` this repository
 4. Move `messages.html` from your Facebook data download to `fb-msg-analyzer/messages.html`
 5. `cd fb-msg-analyzer/`
 6. `npm install` or `npm install jsdom`
