@@ -1,0 +1,9 @@
+{
+  "name": "fb-msg-analyzer",
+  "preferGlobal": "false",
+  "description": "helper for getting words out of fb messages",
+  "version": "0.1.0",
+  "dependencies": {
+     "jsdom"   :  "0.5.5"
+  }
+}
