@@ -6,7 +6,7 @@
 4. Move `messages.html` from your Facebook data download to `fb-msg-analyzer/messages.html`
 5. `cd fb-msg-analyzer/`
 6. `npm install` or `npm install jsdom`
-7. `node analyze.js` - Will turn the HTML comments inside `messages.html` into `data.json`. **This takes a while.**
+7. `node analyze.js` - Will turn the HTML messages inside `messages.html` into `data.json`. **This takes a while.**
 8. Edit `FILTER_STRING = '[name]'` inside `words.js` to filter messages by author.
 9. `node words.js` - Will print an array of words to `[name].json`
 10. Copy the contents of `[name].json` to your clipboard (e.g. `cat [name].json | pbcopy` on a Mac)
