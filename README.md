@@ -10,3 +10,11 @@
 8. `node words.js` - Will print an array of words to `[name].json`
 9. Copy the contents of `[name].json` to your clipboard (e.g. `cat [name].json | pbcopy` on a Mac)
 10. Paste the contents of `[name].json` to [wordle.net](http://www.wordle.net/)
+
+# Examples
+
+![image](https://s3.amazonaws.com/f.cl.ly/items/17433t1x1b1K1h0r2W3k/Screen%20Shot%202013-04-08%20at%2010.04.26%20PM.png)
+
+![image](https://s3.amazonaws.com/f.cl.ly/items/0K1Q2y2J2X3l1C0t221k/Screen%20Shot%202013-04-08%20at%2010.04.36%20PM.png)
+
+![image](https://s3.amazonaws.com/f.cl.ly/items/241L2K1G0T1u00431i2h/Screen%20Shot%202013-04-08%20at%2010.04.44%20PM.png)
