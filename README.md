@@ -10,7 +10,7 @@
 8. Edit `FILTER_STRING = '[name]'` inside `words.js` to filter messages by author.
 9. `node words.js` - Will print an array of words to `[name].json`
 10. Copy the contents of `[name].json` to your clipboard (e.g. `cat [name].json | pbcopy` on a Mac)
-11. Paste the contents of `[name].json` to [wordle.net](http://www.wordle.net/)
+11. Paste the contents of `[name].json` to [wordle.net](http://www.wordle.net/create)
 
 # Examples
 
